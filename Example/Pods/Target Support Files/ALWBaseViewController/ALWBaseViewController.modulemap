@@ -1,0 +1,6 @@
+framework module ALWBaseViewController {
+  umbrella header "ALWBaseViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
